@@ -14,8 +14,7 @@ The goal of this project is to build a robust image classification model to dist
 ## Results
 The trained model achieved good performance metrics. Key results include:
 
-High accuracy in distinguishing between trucks and bikes (96% accuracy)
-Detailed evaluation metrics and confusion matrix provided.
+High accuracy in distinguishing between trucks and bikes (96% accuracy). Detailed evaluation metrics and confusion matrix provided.
 
 ## Potential next steps
 - Hyperparameter Tuning:
